@@ -1,1 +1,1 @@
-# weather form guolin tech
+# weather from guolin tech
